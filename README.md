@@ -115,3 +115,21 @@ Assistance Monitoring
 Interactive Dashboard
        ↓
 Reports & CSV Export
+
+```
+
+## ⚙️ Installation & Usage
+
+```bash
+git clone https://github.com/mdisrak21/humanitarian-needs-field-monitoring-dashboard.git
+cd humanitarian-needs-field-monitoring-dashboard
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## 🔮 Future Improvements
+
+- Add map-based field monitoring.
+- Add real-time data synchronization.
+- Add downloadable situation reports.
+- Add user-based data entry.
